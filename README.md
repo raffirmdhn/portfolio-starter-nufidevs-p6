@@ -9,7 +9,7 @@ Selamat datang di lembar kerja praktikum **Pertemuan 6**! Pada pertemuan ini, ki
 
 Bagi siswa yang menggunakan **Chromebook** atau belum menginstal Node.js di laptop, kamu bisa langsung ngoding di browser hanya dengan satu klik:
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/raffirmdhn/portfolio-starter-nufidevs)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/raffirmdhn/portfolio-starter-nufidevs-p6)
 
 > 💡 **Petunjuk Penggunaan StackBlitz:**
 > 1. Klik tombol **Open in StackBlitz** di atas.
